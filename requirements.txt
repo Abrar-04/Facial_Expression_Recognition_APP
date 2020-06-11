@@ -6,6 +6,6 @@ MarkupSafe==1.1.1
 Werkzeug==1.0.0
 numpy==1.18.1
 opencv-python==4.2.0.32
-https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-2.2.0-cp36-cp36m-manylinux2010_x86_64.whl
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.2.0-cp36-cp36m-manylinux2010_x86_64.whl
 
 
