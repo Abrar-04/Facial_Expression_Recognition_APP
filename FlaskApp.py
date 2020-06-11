@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing import image
 import cv2
 import numpy as np
 
-'''
+
 import tensorflow as tf
 from tensorflow.compat.v1.keras.backend import set_session
 config = tf.compat.v1.ConfigProto()
@@ -15,7 +15,7 @@ config.gpu_options.allow_growth = True  # dynamically grow the memory used on th
 config.log_device_placement = True  # to log device placement (on which device the operation ran)
 sess = tf.compat.v1.Session(config=config)
 set_session(sess)
-'''
+
 
 face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 classifier =tf.keras.models.load_model('vgg_model_saved.h5')
