@@ -1,6 +1,5 @@
-# Facial_Expression_Recognition
+# Facial_Expression_Recognition Application 
 
-# Facial Expression Recognition Application 
 # Dataset: FER 2013 (Kaggle)
 
 ---------------------------------------------------------------------------
