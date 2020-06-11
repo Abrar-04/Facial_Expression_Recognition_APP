@@ -4,7 +4,7 @@
 ## Dataset: FER 2013 (Kaggle)
 
 ---------------------------------------------------------------------------
-## Trained a CNN similar to VGG using Tensorflow/Keras locally using GPU
+## Trained a CNN similar to VGG using Tensorflow/Keras locally using GPU and deployed using FLASK
 
 ---------------------------------------------------------------------------
 
