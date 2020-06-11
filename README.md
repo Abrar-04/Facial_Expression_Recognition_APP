@@ -1,10 +1,10 @@
 # Facial_Expression_Recognition
-=====================================
 
-Facial Expression Recognition Application 
-Dataset: FER 2013
+# Facial Expression Recognition Application 
+# Dataset: FER 2013 (Kaggle)
 
-Trained a CNN similar to VGG using Tensorflow/Keras locally using GPU
+---------------------------------------------------------------------------
+# Trained a CNN similar to VGG using Tensorflow/Keras locally using GPU
 
 ---------------------------------------------------------------------------
 
