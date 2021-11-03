@@ -5,6 +5,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.18.5
-opencv-python==4.4.0
+opencv-python==4.4.0.40
 Werkzeug==1.0.1
 tensorflow==2.5
